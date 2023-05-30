@@ -1,0 +1,704 @@
+    1  sudo apt-get upgrade
+    2  sudo adduser alunoifal
+    3  sudo apt-get update
+    4  sudo apt-get upgrade
+    5  sudo apt upgrade
+    6  sudo apt update
+    7  cd /home/alunoifal/Downloads
+    8  ls
+    9  sudo mv bg-labs.png /usr/share/backgrounds
+   10  cd /home/alunoifal/Downloads
+   11  ls
+   12  sudo apt install libglib2.0-dev-bin
+   13  wget -qO - https://github.com/PRATAP-KUMAR/ubuntu-gdm-set-background/
+   14  archive/main.tar.gz | tar zx --strip-components=1 ubuntu-gdm-set-backgr
+   15  ound-main/ubuntu-gdm-set-background
+   16  sudo ./ubuntu-gdm-set-background --image admin:///media/alunoifal/bgIF.jpg
+   17  wget -qO - https://github.com/PRATAP-KUMAR/ubuntu-gdm-set-background/
+   18  archive/main.tar.gz | tar zx --strip-components=1 ubuntu-gdm-set-backgr
+   19  ound-main/ubuntu-gdm-set-background
+   20  sudo wget -qO - https://github.com/PRATAP-KUMAR/ubuntu-gdm-set-background/
+   21  archive/main.tar.gz | tar zx --strip-components=1 ubuntu-gdm-set-backgr
+   22  ound-main/ubuntu-gdm-set-background
+   23  sudo ./ubuntu-gdm-set-background --image admin:///media/alunoifal/bgIF.jpg 
+   24  sudo ./ubuntu-gdm-set-background --image /media/alunoifal/bgIF.jpg
+   25  wget -qO - https://github.com/PRATAP-KUMAR/ubuntu-gdm-set-background/
+   26  archive/main.tar.gz | tar zx --strip-components=1 ubuntu-gdm-set-backgr
+   27  ound-main/ubuntu-gdm-set-background
+   28  wget -qO - https://github.com/PRATAP-KUMAR/ubuntu-gdm-set-background/archive/main.tar.gz | tar zx --strip-components=1 ubuntu-gdm-set-background-main/ubuntu-gdm-set-background
+   29  sudo ./ubuntu-gdm-set-background --image /media/alunoifal/bgIF.jpg
+   30  reboot
+   31  sudo git clone https://github.com/BenJetson/gnome-dash-fix.git
+   32  cd gnome-dash-fix
+   33  sudo chmod 755 appfixer.sh
+   34  ./appfixer.sh
+   35  dcoker
+   36  docker
+   37  docker info
+   38  sudo docker info
+   39  sudo apt-get update
+   40  gconf-editor
+   41  sudo apt-get gconf-editor
+   42  sudo apt-get update
+   43  sudo apt-get -y install dconf-editor
+   44  sudo apt update
+   45  sudo apt -y install dconf-editor
+   46  sudo aptitude update
+   47  sudo aptitude -y install dconf-editor
+   48  gconf-editor
+   49  sudo apt install gconf
+   50  clear
+   51  CHMOD 777 -R /opt/lampp/htdocs
+   52  chmod 777 -R /opt/lampp/htdocs
+   53  sudo chmod 777 -R /opt/lampp/htdocs
+   54  chmod 777 -R /opt/lampp/htdocs
+   55  sudo chmod 777 -R /opt/lampp/htdocs
+   56  sudo chmod -R 555 .gconf
+   57  gksudo nautilus
+   58  CHMOD -R 777 /opt/lampp/htdocs
+   59  CHMOD 777 -R /opt/lampp/htdocs
+   60  sudo chmod -R 777 .gconf
+   61  sudo apt install chrome-gnome-shell
+   62  clear
+   63  sudo apt install chrome-gnome-shell
+   64  sudo gconftool-2 --config-source xml:readwrite:/etc/gconf/gconf.xml.mandatory --type string --set /org/gnome/desktop/background/picture-uri 'file:///usr/share/backgrounds/gnome/Dark_Ivy.jpg' 
+   65  /etc/dconf/profile/user
+   66  cd /etc/dconf/profile/user
+   67  cd etc/dconf/profile/user
+   68  cd ./etc/dconf/profile/user
+   69  cd etc
+   70  ls
+   71  cd ..
+   72  cd etv
+   73  cd etc
+   74  cd dconf
+   75  cd profile/
+   76  clear
+   77  user-db:user
+   78  cat user
+   79  sudo nano
+   80  ls
+   81  mkdir db
+   82  sudo mkdir db
+   83  cd db
+   84  sudo mkdir local.d
+   85  cd local.d/
+   86  sudo mkdir locks
+   87  sudo nano
+   88  dconfig update
+   89  sudo dconf update
+   90  reboot
+   91  cd /etc/dconf/db/local.d/locks/
+   92  cd ..
+   93  ls
+   94  cd /etc/dconf/db/local.d/locks/
+   95  cd etc
+   96  ls
+   97  cd dconf
+   98  ls
+   99  cd db
+  100  ls
+  101  mdkg local.d
+  102  sudo mdkg local.d
+  103  sudo mdir local.d
+  104  sudo mkdir local.d
+  105  ls
+  106  cd local.d/
+  107  mkdir locks
+  108  sudo mkdir locks
+  109  ls
+  110  cd locks/
+  111  sudo nano
+  112  dconf update
+  113  sudo dconfig update
+  114  sudo dconf update
+  115  ls
+  116  s nano
+  117  sudo rmdir s
+  118  ls
+  119  rmdir s
+  120  sudo rmdir s
+  121  sudo rmdir ss
+  122  sudo rmdir s s
+  123  sudo rmd s
+  124  sudo rm s
+  125  ls
+  126  dconf update
+  127  sudo dconf update
+  128  sudo nano
+  129  dconf update
+  130  sudo dconf update
+  131  dconf update
+  132  sudo dconf update
+  133  sudo nano
+  134  sudo apt-get update
+  135  sudo apt-get upgrade
+  136  sudo apt upgrade
+  137  sudo apt update
+  138  sudo apt-get upgrade
+  139  sudo apt-get update
+  140  reboot
+  141  sudo apt-get update
+  142  sudo apt-get upgrade
+  143  sudo apt upgrade
+  144  sudo apt update
+  145  sudo apt-get update
+  146  sudo apt-get upgrade
+  147  sudo apt update
+  148  sudo apt upgrade
+  149  poweroff
+  150  cd
+  151  home
+  152  ls
+  153  cd Documentos
+  154  cd ..
+  155  ls
+  156  cd Documentos
+  157  bash.sh
+  158  bash . sh
+  159  nano bash sorraya
+  160  bash sorraya. sh
+  161  bash sorraya.sh
+  162  nano banjovisky.sh
+  163  bash banjovisky.sh
+  164  nano felix.sh
+  165  nano banjovisky.sh
+  166  nano felix.sh
+  167  bash felix
+  168  bash felix.sh
+  169  nano tux.sh
+  170  bash tux.sh
+  171  nano tux.sh
+  172  bash tux.sh
+  173  nano tux.sh
+  174  bash tux.sh
+  175  nano tux.sh
+  176  sudo apt-get update
+  177  sudo apt-get upgrade
+  178  sudo apt upgrade
+  179  sudo apt update
+  180  poweroff
+  181  sudo apt-get update
+  182  sudo apt-get upgrade
+  183  sudo apt upgrade
+  184  poweroff
+  185  sudo apt-get update
+  186  sudo apt-get upgrade
+  187  sudo apt upgrade
+  188  sudo apt update
+  189  reboot
+  190  ls
+  191  cs
+  192  cd
+  193  cd ..
+  194  ls
+  195  cd
+  196  ls
+  197  pwd
+  198  ls
+  199  cd Downloads
+  200  ls
+  201  cd ..
+  202  ls
+  203  cd ..
+  204  lks
+  205  ls]
+  206  ls
+  207  cd ..
+  208  ls
+  209  cd ..
+  210  ls
+  211  cd home
+  212  ls
+  213  cd ..
+  214  ls
+  215  pwd
+  216  ls
+  217  cd ..
+  218  ls
+  219  cd ..
+  220  ls
+  221  cd ..
+  222  ls
+  223  cd home
+  224  ls
+  225  cd alunoifal]
+  226  cd alunoifal
+  227  ls
+  228  pwd
+  229  ls
+  230  pidf
+  231  pid
+  232  PID
+  233  top
+  234  ls
+  235  bash olamundo.sh
+  236  bash teste.sh
+  237  nano teste.sh
+  238  bash teste.sh
+  239  nano soma.sh
+  240  bash soma.sh 
+  241  nano while.sh
+  242  bash while.sh 
+  243  nano while.sh 
+  244  bash while.sh 
+  245  nano while.sh 
+  246  bash while.sh 
+  247  nano while.sh 
+  248  bash while.sh 
+  249  nano while.sh 
+  250  bash while.sh 
+  251  nano while.sh 
+  252  bash while.sh 
+  253  nano while.sh 
+  254  bash while.sh 
+  255  shutdown -r now
+  256  ls
+  257  cd Documentos
+  258  ls
+  259  cd ..
+  260  cat > programa.txt
+  261  ls
+  262  programa.txt
+  263  ls
+  264  cd programa.txt
+  265  ps -e
+  266  ps -f
+  267  ps -ef
+  268  kill 4093
+  269  top
+  270  ls
+  271  pwd
+  272  gedit programa.txt
+  273  nano programa.txt
+  274  ls
+  275  gedit programa.txt
+  276  cd Documentos
+  277  ls
+  278  mkdir Teste de comandos no linux
+  279  ls
+  280  rm -r comandos
+  281  ls
+  282  rm -r de
+  283  ls
+  284  rm -r linux
+  285  rm -r no
+  286  rm -r Teste
+  287  ls
+  288  mkdir programas
+  289  ls
+  290  cd programas
+  291  ls
+  292  rmdir
+  293  rmdir 
+  294  ls
+  295  cd ..
+  296  ls
+  297  rmdir programas
+  298  ls
+  299  cd ..
+  300  ls
+  301  rm programa.txt
+  302  ls
+  303  cd Documentos
+  304  ls
+  305  cat > programa
+  306  ls
+  307  gedit programa
+  308  ls
+  309  mkdir programas
+  310  ls
+  311  cd programas
+  312  ls
+  313  cat > doc.txt
+  314  ls
+  315  gedit doc.txt
+  316  ls
+  317  rm doc
+  318  rm doc.txt
+  319  ls
+  320  rm -r
+  321  ls
+  322  cd ..
+  323  ls
+  324  rm -r programas
+  325  ls
+  326  date
+  327  we -l
+  328  ls
+  329  wx -l
+  330  wc -l
+  331  ls
+  332  lsl
+  333  pwd
+  334  ls
+  335  top
+  336  firefox
+  337  lsa
+  338  ls
+  339  mkdir programas
+  340  ls
+  341  cd programas
+  342  ls
+  343  cat > teste.txt
+  344  ls
+  345  nano teste.txt
+  346  ls
+  347  bash
+  348  sudo apt-get update
+  349  sudo apt-get upgrade
+  350  sudo apt upgrade
+  351  sudo apt autoremove
+  352  sudo apt update
+  353  sudo apt upgrade
+  354  poweroff
+  355  ls
+  356  cat > while2.sh
+  357  nano while.sh
+  358  bash while2.sh
+  359  nano while2.sh
+  360  ls
+  361  bash while.sh
+  362  nano while.sh
+  363  ls
+  364  cd ..
+  365  ls
+  366  pwd
+  367  ls
+  368  cd alunoifal
+  369  ls
+  370  mkdir progras_bash
+  371  ls
+  372  rmdir progras_bash
+  373  ls
+  374  mkdir programas_bash
+  375  ls
+  376  cd programas_bash
+  377  ls
+  378  cat > while2.sh
+  379  ls
+  380  nano while2.sh
+  381  bash while2.sh
+  382  nano while2.sh 
+  383  bash while2.sh 
+  384  cat > for.sh
+  385  nano for.sh
+  386  bash for.sh
+  387  nano for.sh
+  388  bash for.sh
+  389  nano for.sh
+  390  bash for.sh
+  391  nano for.sh
+  392  bash for.sh
+  393  nano for.sh
+  394  bash for.sh
+  395  nano for.sh
+  396  bash for.sh 
+  397  nano for.sh 
+  398  bash for.sh 
+  399  ls
+  400  pwd
+  401  nano for.sh 
+  402  bash for.sh 
+  403  nano for.sh 
+  404  nano for2.sh
+  405  bash for2.sh 
+  406  shutdown now
+  407  sudo apt install libreoffice
+  408  libreoffice
+  409  cls
+  410  clear
+  411  shutdown now
+  412  node -v
+  413  npm -v
+  414  node
+  415  cd Aawesomeproject
+  416  npx expo install react-native-web@~0.18.9 react-dom@18.1.0 @expo/webpack-config@^0.17.2
+  417  [200~curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash~
+  418  clean
+  419  [200~curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash~
+  420  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash
+  421  export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+  422  [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
+  423  nvm install --lts
+  424  node -v
+  425  cd
+  426  npm
+  427  clean
+  428  clear
+  429  npx
+  430  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash
+  431  clear
+  432  node -v
+  433  npm start
+  434  clear
+  435  npx create-expo-app AwesomeProject
+  436  sudo apt-get upgrade
+  437  sudo apt-get upgrade]
+  438  sudo apt-get upgrade
+  439  sudo apt upgrade
+  440  sudo apt-get upgrade
+  441  sudp apt upgrade
+  442  sudo apt upgrader
+  443  sudo apt upgrade
+  444  poweroff
+  445  sudo apt-get update
+  446  sudo apt-get upgrade
+  447  sudo apt upgrade
+  448  sudo apt update
+  449  sudo apt upgrade
+  450  sudo apt autoremove
+  451  poweroff
+  452  sudo apt-get update
+  453  sudo apt-get upgrade
+  454  sudo apt update
+  455  sudo apt upgrade
+  456  poweroff
+  457  sudo apt-get update
+  458  sudo apt-get upgrade
+  459  sudo apt update
+  460  sudo apt upgrade
+  461  poweroff
+  462  shutdonw
+  463  shutdowm
+  464  shutdown
+  465  sudo apt-get update
+  466  sudo apt-get upgrade
+  467  reboot
+  468  sudo apt-get update
+  469  sudo apt-get upgrade
+  470  sudo apt update
+  471  sudo apt upgrade
+  472  poweroff
+  473  clear
+  474  cd Downloads/
+  475  cd..
+  476  clear
+  477  cd ..
+  478  ls
+  479  ls -lah
+  480  man
+  481  man mk2
+  482  man help
+  483  man mkdir
+  484  cd Area de Área de clear
+  485  cd Área\ de\ Trabalho/
+  486  cd ..
+  487  history
+  488  cd Documentos/
+  489  cd ..
+  490  sudo su
+  491  help
+  492  ls -lah
+  493  nano
+  494  man acept
+  495  man accept
+  496  date
+  497  ls
+  498  cd Área de trabalho
+  499  cd 'Área de Trabalho
+  500  cd 'Área de Trabalho'
+  501  history
+  502  history
+  503  ls
+  504  man ls
+  505  ls -a
+  506  ls -aA
+  507  clear
+  508  man ls
+  509  ls -a
+  510  ls -A
+  511  ls -l
+  512  man ls
+  513  ls -H
+  514  ls
+  515  free 
+  516  free -H
+  517  free
+  518  free -h
+  519  man pwd
+  520  pwd -L
+  521  pwd -P
+  522  pwd - LP
+  523  pwd _PL
+  524  lynx
+  525  sudo apt install lynx
+  526  lynx
+  527  sudo apt install lynx
+  528  lynx www.google.com
+  529  shatdaw -rnow
+  530  shatdaw -r now
+  531  shatdow -r now
+  532  shutdown -r now
+  533  history
+  534  pwd
+  535  mkdir ellen_leticia
+  536  ls
+  537  pwd
+  538  cd ellen_leticia 
+  539  mkdir disciplinas
+  540  mkdir SO
+  541  cd /
+  542  pwd
+  543  cd /home/alunoifal/ellen_leticia
+  544  mkdir /home/alunoifal/ellen_leticia/SO_temp
+  545  ls
+  546  cd ..
+  547  mv SO_temp SO_temp
+  548  cd ellen_leticia
+  549  mv SO_temp SO_temp
+  550  cd ..
+  551  mv SO_temp SO_2023
+  552  ls
+  553  cd ellen_leticia/
+  554  ls
+  555  mv SO_temp/ SO_2023
+  556  ls
+  557  mv SO_2023/ disciplinas
+  558  ls
+  559  cd disciplinas
+  560  ls
+  561  cd ..
+  562  rm -rf SO
+  563  ls
+  564  cd SO_2023
+  565  cd disciplinas
+  566  cd SO_2023
+  567  touch Notas.txt
+  568  ls
+  569  cd ../../..
+  570  history
+  571  history > ellen_leticia.txt
+  572  cat ellen_leticia.txt
+  573  sudo apt-get update
+  574  sudo apt-get upgrade
+  575  sudo apt update
+  576  sudo apt upgrade
+  577  sudo apt auto-remove
+  578  poweroff
+  579  touch permissao-total.txt
+  580  ls
+  581  chmod 777 permissao-total
+  582  chmod 777 permissao-total.txt
+  583  ls -l
+  584  chmod a+rwx
+  585  chmod a+rwx permissao-total.txt
+  586  ls -l
+  587  touch nenhuma-permissao.txt
+  588  ls
+  589  chmod 000 nenhuma-permissao.txt
+  590  ls -l
+  591  chmod u+x permissao-total.txt
+  592  ls -l
+  593  chmod 000 permissao-total.txt
+  594  ls -l
+  595  chmod u+x permissao-total.txt 
+  596  ls -l
+  597  chmod 100 permissao-total.txt
+  598  ls -l
+  599  chmod 010 permissao-total.txt
+  600  ls -l
+  601  chmod 100 permissao-total.txt
+  602  ls -l
+  603  shutdown -r now
+  604  sudo apt-get update
+  605  sudo apt-get upgrade
+  606  sudo apt update
+  607  sudo apt upgrade
+  608  poweroff
+  609  cat/etc/passwd
+  610  cat/etc/password
+  611  mkdir lab01-ana-ellen
+  612  mkdir lab02-ana-ellen
+  613  rmdir lab01-ana-ellen
+  614  rmdir lab02-ana-ellen
+  615  ls
+  616  mkdir /home/alunoifal/ana-ellen
+  617  ls
+  618  cd ana-ellen
+  619  mkdir lab01-ana-ellen
+  620  mkdir lab02-ana-ellen
+  621  mkdir lab03-ana-ellen
+  622  mkdir alunos-ana-ellen
+  623  mkdir professores-ana-ellen
+  624  mkdir todos-ana-ellen
+  625  ls
+  626  chmod g+rw lab01-ana-ellen
+  627  ls -lah
+  628  ls -l
+  629  history
+  630  groupadd lab01-ana.ellen
+  631  sudo groupadd lab01-ana.ellen
+  632  sudo groupadd lab02-ana.ellen
+  633  sudo groupadd 
+  634  sudo groupadd alunos-ana.ellen
+  635  sudo groupadd profs-ana.ellen
+  636  sudo groupadd todos-ana.ellen
+  637  sudo useradd alunas-ana.ellen
+  638  mkdir lab01-ana.ellen
+  639  mkdir lab02-ana.ellen
+  640  mkdir lab03-ana.ellen
+  641  mkdir alunos-ana.ellen
+  642  mkdir profs-ana.ellen
+  643  mkdir todos-ana.ellen
+  644  ls
+  645  chown alunas-ana.ellen:lab01-ana.ellen lab01-ana.ellen
+  646  sudo chown alunas-ana.ellen:lab01-ana.ellen lab01-ana.ellen
+  647  sudo chown alunas-ana.ellen:lab02-ana.ellen lab02-ana.ellen
+  648  sudo chown alunas-ana.ellen:lab03-ana.ellen lab03-ana.ellen
+  649  sudo chown alunas-ana.ellen:alunos-ana.ellen alunos-ana.ellen
+  650  sudo chown alunas-ana.ellen:profs-ana.ellen profs-ana.ellen
+  651  sudo chown alunas-ana.ellen:todos-ana.ellen todos-ana.ellen
+  652  ls -l
+  653  sudo chmod g+wr lab01-ana.ellen
+  654  ls-l
+  655  ls -l
+  656  chmod 000 lab01-ana.ellen
+  657  sudo chmod 000 lab01-ana.ellen
+  658  sudo chmod 000 lab02-ana.ellen
+  659  sudo chmod 000 lab03-ana.ellen
+  660  sudo chmod 000 alunos-ana.ellen
+  661  sudo chmod 000 todos-ana.ellen
+  662  sudo chmod 000 profs-ana.ellen
+  663  ls -l
+  664  sudo chmod g+rw lab01-ana.ellen
+  665  sudo chmod g+r lab02-ana.ellen
+  666  sudo chmod g+rx lab02-ana.ellen
+  667  sudo chmod g+r lab02-ana.ellen
+  668  sudo chmod g+rx lab03-ana.ellen
+  669  sudo chmod g+w alunos-ana.ellen
+  670  sudo chmod g+r todos-ana.ellen
+  671  sudo useradd prof-ana.ellen
+  672  sudo chown prof-ana.ellen:profs-ana.ellen profs-ana.ellen
+  673  ls -l
+  674  sudo chown alunas-ana.ellen:profs-ana.ellen profs-ana.ellen
+  675  sudo chown prof-ana.ellen:profs-ana.ellen todos-ana.ellen
+  676  ls -l
+  677  sudo chmod u+r todos-ana.ellen
+  678  sudo chmod g-r todos-ana.ellen
+  679  ls-l
+  680  ls -l
+  681  mkdir /home//alunoifal/ana.ellen
+  682  mv lab01-ana.ellen /home//alunoifal/ana.ellen
+  683  sudo mv lab01-ana.ellen /home//alunoifal/ana.ellen
+  684  ls -l
+  685  cd /home//alunoifal/ana.ellen
+  686  ls
+  687  cd ..
+  688  sudo mv lab02-ana.ellen /home//alunoifal/ana.ellen
+  689  sudo mv lab03-ana.ellen /home//alunoifal/ana.ellen
+  690  sudo mv todos-ana.ellen /home//alunoifal/ana.ellen
+  691  sudo mv profs-ana.ellen /home//alunoifal/ana.ellen
+  692  sudo mv alunos-ana.ellen /home//alunoifal/ana.ellen
+  693  cd /home//alunoifal/ana.ellen
+  694  ls
+  695  cd ..
+  696  su alunas-ana.ellen
+  697  history
+  698  sudo userdel alunas-ana.ellen
+  699  sudo adduser alunas-ana.ellen
+  700  sudo adduser alunas_ana.ellen
+  701  sudo adduser alunas_ana_ellen
+  702  su alunas_ana_ellen
+  703  touch history.txt
+  704  history > history.txt
